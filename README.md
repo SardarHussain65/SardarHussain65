@@ -49,7 +49,7 @@ A React Native app built with Expo that delivers daily multiple-choice quizzes o
 ## 🌐 Let's Connect
 
 🔗 [LinkedIn](www.linkedin.com/in/sardar-hussain-3aa8442a5)  
-💼 [Upwork]([https://www.upwork.com/freelancers/~your-id](https://www.upwork.com/freelancers/~013ee56475f43c331c?mp_source=share))  
+💼 [Upwork](https://www.upwork.com/freelancers/~013ee56475f43c331c?mp_source=share)  
 📫 Email: sardar6hussain5@gmail.com  
 
 ---
