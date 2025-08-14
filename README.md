@@ -2,7 +2,7 @@
 
 🎯 React Native Developer | JavaScript Enthusiast | Mobile & Web App Builder  
 📍 Based in Gilgit-Baltistan, Pakistan  
-💼 Currently working at Techsolab
+💼 Currently working at Repla Technology
 
 ---
 
