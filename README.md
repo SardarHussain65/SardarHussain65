@@ -171,7 +171,7 @@ const sardar = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 ```
 ✅  Ship 2 apps to the App Store & Play Store
