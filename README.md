@@ -1,16 +1,15 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sardar%20Hussain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20%7C%20Mobile%20Engineer&descAlignY=60&descSize=20&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sardar%20Hussain&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Cross-Platform+Mobile+Apps+%F0%9F%9A%80;React+Native+%7C+TypeScript+%7C+Expo;1%2B+Year+of+Production+Experience;Turning+Ideas+Into+Polished+Products+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engineer.+Creator.+Lifelong+Learner.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+;Building+Cross-Platform+Mobile+Apps+%F0%9F%9A%80;React+Native+%7C+Clean+Architecture+%7C+Performance"/>
 </a>
 
 <br/>
 
-<!-- BADGES ROW -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=SardarHussain65&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/badge/Focus-React%20Native-7c3aed?style=for-the-badge&logo=react&logoColor=white"/>
@@ -23,7 +22,6 @@
 ---
 
 ## ⚡ About Me
-
 ```ts
 const sardar = {
   role        : "React Native Developer",
@@ -42,7 +40,6 @@ const sardar = {
 ---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ### 📱 Mobile & Frontend
@@ -84,12 +81,16 @@ const sardar = {
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+<!-- Playful or specialty badges, or custom icons, can go here! -->
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<details>
+<summary><b>See My Major Mobile & Web App Builds</b></summary>
+<br/>
 <div align="center">
 <table>
   <thead>
@@ -109,37 +110,38 @@ const sardar = {
     </tr>
     <tr>
       <td><b>🏥 Telehealth App</b></td>
-      <td>Healthcare platform for patient–doctor video consultations, appointment scheduling & EHR tracking</td>
+      <td>Healthcare: video consultations, appointment scheduling & EHR tracking</td>
       <td>React Native · Redux Toolkit · Twilio SDK · REST APIs</td>
       <td>🔐 Private</td>
     </tr>
     <tr>
       <td><b>📦 QBox</b></td>
-      <td>Enterprise home owner app with role-based access, property management & service request system</td>
+      <td>Enterprise property manager—role-based access, service request system</td>
       <td>React Native · Zustand · REST APIs</td>
       <td>🔐 Private</td>
     </tr>
     <tr>
       <td><b>📺 Duplex IPTV</b></td>
-      <td>IPTV streaming app supporting HLS/M3U playlists, live TV channels, VOD & EPG data</td>
+      <td>Streaming app supporting HLS/M3U playlists, live TV/VOD, EPG data</td>
       <td>React Native · Expo · expo-video · TanStack Query</td>
       <td>🔐 Private</td>
     </tr>
     <tr>
       <td><b>💬 Real-Time Chat</b></td>
-      <td>1:1 & group messaging with typing indicators, read receipts, media sharing & offline sync</td>
+      <td>Messaging with media, group chats, read receipts, offline sync</td>
       <td>React Native · Twilio Conversations · Firestore</td>
       <td>🔐 Private</td>
     </tr>
     <tr>
       <td><b>💍 Jewelry E-Commerce</b></td>
-      <td>Mobile shopping app with product catalog, cart, WhatsApp-based order confirmation & custom design flow</td>
+      <td>Shopping – product catalog, cart, WhatsApp-based custom orders</td>
       <td>React Native · Firebase · Expo</td>
       <td>🔐 Private</td>
     </tr>
   </tbody>
 </table>
 </div>
+</details>
 
 ---
 
@@ -151,7 +153,6 @@ const sardar = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SardarHussain65&theme=midnight-purple&hide_border=true" />
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SardarHussain65&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
-
 </div>
 
 ---
@@ -159,7 +160,8 @@ const sardar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SardarHussain65/SardarHussain65/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/></div>
+<img src="https://raw.githubusercontent.com/SardarHussain65/SardarHussain65/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
 
 ---
 
