@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engineer.+Creator.+Lifelong+Learner.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+;Building+Cross-Platform+Mobile+Apps+%F0%9F%9A%80;React+Native+%7C+Clean+Architecture+%7C+Performance"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engineer.+Creator.+Lifelong+Learner.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+;Building+Cross-Platform+Mobile+Apps+%F0%9F%9A%80;RReact+Native+%7C+Clean+Architecture+%7C+Performance"/>
 </a>
 
 <br/>
