@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/SardarHussain65">
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/header.svg" width="100%" alt="Sardar Header"/>
+<img src="https://Sardar Hussain.github.io/Sardar Hussain-ReadmeAssets/header.svg" width="100%" alt="Sardar Header"/>
 </a>
 </div>
 
@@ -33,7 +33,7 @@
 <!-- Divider SVG -->
 <div align="center">
 <a href="https://github.com/SardarHussain65">
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/divider.svg" width="100%" alt="Section Divider"/>
+<img src="https://Sardar Hussain.github.io/Sardar Hussain-ReadmeAssets/divider.svg" width="100%" alt="Section Divider"/>
 </a>
 </div>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 <a href="https://github.com/SardarHussain65">
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/skills-badges.svg" width="100%" alt="Skills & Technologies"/>
+<img src="https://Sardar Hussain.github.io/Sardar Hussain-ReadmeAssets/skills-badges.svg" width="100%" alt="Skills & Technologies"/>
 </a>
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 <a href="https://github.com/SardarHussain65">
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/divider2.svg" width="100%" alt="Section Divider"/>
+<img src="https://Sardar Hussain.github.io/Sardar Hussain-ReadmeAssets/divider2.svg" width="100%" alt="Section Divider"/>
 </a>
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 <a href="https://github.com/SardarHussain65">
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/languages-flags.svg" width="100%" alt="Languages"/>
+<img src="https://Sardar Hussain.github.io/Sardar Hussain-ReadmeAssets/languages-flags.svg" width="100%" alt="Languages"/>
 </a>
 </div>
 
@@ -67,7 +67,7 @@
 
 ## 💡 Interesting Facts
 <a href="https://github.com/SardarHussain65">
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/about.svg" width="90%" alt="About Me"/>
+<img src="https://Sardar Hussain.github.io/Sardar Hussain-ReadmeAssets/about.svg" width="90%" alt="About Me"/>
 </a>
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 <a href="https://github.com/SardarHussain65">
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/divider3.svg" width="100%" alt="Section Divider"/>
+<img src="https://Sardar Hussain.github.io/Sardar Hussain-ReadmeAssets/divider3.svg" width="100%" alt="Section Divider"/>
 </a>
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 <a href="https://github.com/SardarHussain65">
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/contact-links.svg" width="100%" alt="Let's Connect"/>
+<img src="https://Sardar Hussain.github.io/Sardar Hussain-ReadmeAssets/contact-links.svg" width="100%" alt="Let's Connect"/>
 <a href="mailto:sardar6hussain5@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;&nbsp;
@@ -104,7 +104,7 @@
 <!-- ========================= SIGNATURE GIF ========================= -->
 <div align="center">
 <a href="https://github.com/SardarHussain65">
-<img src="https://github.com/MrBElga/MrBElga/blob/main/.github/workflows/12.gif" height="160" style="border-radius:100px;" alt="Signature Animation"/>
+<img src="https://github.com/Sardar Hussain/Sardar Hussain/blob/main/.github/workflows/12.gif" height="160" style="border-radius:100px;" alt="Signature Animation"/>
 </a>
 </div>
 
@@ -123,7 +123,7 @@
 
 <div align="center">
 <a href="https://github.com/SardarHussain65">
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/footer.svg" width="100%" alt="Footer"/>
+<img src="https://Sardar Hussain.github.io/Sardar Hussain-ReadmeAssets/footer.svg" width="100%" alt="Footer"/>
 </a>
 </div>
 
@@ -131,7 +131,7 @@
 
 <div align="center">
 <sub>
-🎨 <b>README Design</b> adapted from © 2024 Daniel Elias Fonseca Rumin (<a href="https://github.com/MrBElga">@MrBelga</a>)<br>
-⚠️ <i>Visual assets powered by MrBelga's custom SVG library</i>
+🎨 <b>README Design</b> adapted from © 2024 Daniel Elias Fonseca Rumin (<a href="https://github.com/Sardar Hussain">@Sardar Hussain</a>)<br>
+⚠️ <i>Visual assets powered by Sardar Hussain's custom SVG library</i>
 </sub>
 </div>
