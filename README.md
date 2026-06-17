@@ -1,192 +1,155 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sardar%20Hussain&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0E17,50:1B1640,100:2B1B6B&height=210&section=header&text=Sardar%20Hussain&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=React%20Native%20Developer%20%E2%86%92%20AI%20Engineer%20in%20Progress&descAlignY=58&descSize=18&descColor=C9B8FF&animation=fadeIn"/>
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engineer.+Creator.+Lifelong+Learner.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+;Building+Cross-Platform+Mobile+Apps+%F0%9F%9A%80;RReact+Native+%7C+Clean+Architecture+%7C+Performance"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=7DD3C0&center=true&vCenter=true&width=650&lines=React+Native+Developer+%40+Repla+Technologies;5+Production+Apps+Shipped+%F0%9F%93%B1;Now+Leveling+Up%3A+LangChain+%C2%B7+LangGraph+%C2%B7+FastAPI+%F0%9F%A4%96;CS+Student+%40+Virtual+University+%F0%9F%8E%93"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SardarHussain65&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Focus-React%20Native-7c3aed?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-Pakistan%20🇵🇰-7c3aed?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Available-Freelance-22c55e?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/React%20Native-7C5CFF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pakistan-1B1640?style=for-the-badge&logo=googlemaps&logoColor=7DD3C0"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-2BAE66?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Freelance-Available-FFB23E?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
+### 👋 About
+
 ```ts
-const sardar = {
+const sardar: Engineer = {
   role        : "React Native Developer",
   company     : "Repla Technologies",
-  education   : "B.S. Computer Science @ Virtual University",
-  location    : "Rawalpindi, Pakistan 🇵🇰",
-  experience  : "1+ year in production mobile apps",
-  passions    : ["Mobile Engineering", "Clean Architecture", "Performance Optimization"],
-  currentWork : ["Telehealth App", "Ride-Hailing Platform", "IPTV Streaming App"],
-  funFact     : "I debug in my sleep 💤",
+  education   : "B.S. Computer Science (5th Semester) @ Virtual University",
+  location    : "Rawalpindi / Islamabad, Pakistan 🇵🇰",
+  experience  : "2 years · 5 production apps shipped",
+  nowLearning : ["LangChain", "LangGraph", "FastAPI", "Redis", "MCP & A2A"],
+  sideProject : "ApnaUstad — solo-built RN app + Node/Postgres backend + React admin panel",
+  currentGoal : "Transitioning from mobile engineering into AI-focused roles",
 };
 ```
 
-> 🧠 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center">
+### 🛠️ Stack
 
-### 📱 Mobile & Frontend
+**Mobile & Frontend**
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
 </p>
 
-### 🗃️ State Management
+**Backend & Cloud**
 <p>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-brown?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
 </p>
 
-### ☁️ Backend & Cloud
+**AI & Agents** <sub>— current focus</sub>
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP_%2F_A2A-7C5CFF?style=flat-square"/>
 </p>
 
-### 🔧 Tools & Platforms
+**Tools**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
-
-<!-- Playful or specialty badges, or custom icons, can go here! -->
-</div>
 
 ---
 
-## 🚀 Featured Projects
+### 📱 Shipped
 
-<details>
-<summary><b>See My Major Mobile & Web App Builds</b></summary>
-<br/>
-<div align="center">
 <table>
-  <thead>
-    <tr>
-      <th>🏷️ Project</th>
-      <th>📋 Description</th>
-      <th>🛠️ Stack</th>
-      <th>🔗 Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🚗 Ayy Ride</b></td>
-      <td>Dual-sided ride-hailing platform (Driver & Passenger apps) with real-time GPS tracking & dynamic fare calculation</td>
-      <td>React Native · Redux Toolkit · Firebase · Google Maps · GraphQL</td>
-      <td>🔐 Private</td>
-    </tr>
-    <tr>
-      <td><b>🏥 Telehealth App</b></td>
-      <td>Healthcare: video consultations, appointment scheduling & EHR tracking</td>
-      <td>React Native · Redux Toolkit · Twilio SDK · REST APIs</td>
-      <td>🔐 Private</td>
-    </tr>
-    <tr>
-      <td><b>📦 QBox</b></td>
-      <td>Enterprise property manager—role-based access, service request system</td>
-      <td>React Native · Zustand · REST APIs</td>
-      <td>🔐 Private</td>
-    </tr>
-    <tr>
-      <td><b>📺 Duplex IPTV</b></td>
-      <td>Streaming app supporting HLS/M3U playlists, live TV/VOD, EPG data</td>
-      <td>React Native · Expo · expo-video · TanStack Query</td>
-      <td>🔐 Private</td>
-    </tr>
-    <tr>
-      <td><b>💬 Real-Time Chat</b></td>
-      <td>Messaging with media, group chats, read receipts, offline sync</td>
-      <td>React Native · Twilio Conversations · Firestore</td>
-      <td>🔐 Private</td>
-    </tr>
-    <tr>
-      <td><b>💍 Jewelry E-Commerce</b></td>
-      <td>Shopping – product catalog, cart, WhatsApp-based custom orders</td>
-      <td>React Native · Firebase · Expo</td>
-      <td>🔐 Private</td>
-    </tr>
-  </tbody>
+<tr>
+<td width="40">🚗</td>
+<td><b>Ayy</b> — ride-hailing platform, driver & passenger apps</td>
+<td align="right"><sub>RN · Redux Toolkit · Mapbox · Firebase</sub></td>
+</tr>
+<tr>
+<td width="40">🏥</td>
+<td><b>Telehealth</b> — video consultations & appointment scheduling</td>
+<td align="right"><sub>RN · Twilio SDK · REST</sub></td>
+</tr>
+<tr>
+<td width="40">📦</td>
+<td><b>QBox</b> — enterprise property manager, role-based access</td>
+<td align="right"><sub>RN · Zustand · REST</sub></td>
+</tr>
+<tr>
+<td width="40">📺</td>
+<td><b>Duplex IPTV</b> — live TV/VOD streaming, HLS & EPG</td>
+<td align="right"><sub>RN · Expo · expo-video</sub></td>
+</tr>
+<tr>
+<td width="40">🧰</td>
+<td><b>HomeServe</b> — on-demand home services marketplace</td>
+<td align="right"><sub>RN · Firebase · Stripe</sub></td>
+</tr>
+<tr>
+<td width="40">📚</td>
+<td><b>ApnaUstad</b> <sub>(solo build)</sub> — tutoring platform, app + backend + admin panel</td>
+<td align="right"><sub>RN · Node.js · PostgreSQL · React.js</sub></td>
+</tr>
 </table>
-</div>
-</details>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SardarHussain65&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SardarHussain65&theme=midnight-purple&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SardarHussain65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SardarHussain65&theme=tokyonight&hide_border=true"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SardarHussain65&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SardarHussain65&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SardarHussain65/SardarHussain65/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
-## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SardarHussain65&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
----
-
-## 🎯 2026 Goals
-
-```
-✅  Ship 2 apps to the App Store & Play Store
-🔄  Master expo-video & advanced HLS streaming
-🔄  Build an AI-powered feature with LangChain + FastAPI
-🔄  Contribute to open-source React Native ecosystem
-⏳  Complete B.S. Computer Science strong
-⏳  Land a senior RN role or grow freelance client base
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SardarHussain65/SardarHussain65/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+</div>
 
 ---
 
-## 🤝 Let's Connect
+### 🎯 2026 Roadmap
+
+```
+[x] Ship 2 apps to App Store & Play Store
+[ ] Go deep on LangChain + LangGraph + FastAPI + Redis
+[ ] Build & ship an AI agent feature in a production app
+[ ] Land a remote/senior role bridging RN + AI engineering
+[ ] Keep pace through Virtual University while shipping at work
+```
+
+---
+
+### 🤝 Connect
 
 <div align="center">
 
@@ -205,6 +168,6 @@ const sardar = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2B1B6B,50:1B1640,100:0A0E17&height=100&section=footer"/>
 
 </div>
