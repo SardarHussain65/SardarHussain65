@@ -1,0 +1,70 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="45%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c084fc"/>
+      <stop offset="100%" style="stop-color:#a78bfa"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="240" fill="url(#bgGrad)"/>
+
+  <!-- Decorative grid lines -->
+  <g opacity="0.06" stroke="#a78bfa" stroke-width="0.5">
+    <line x1="0" y1="40" x2="1200" y2="40"/>
+    <line x1="0" y1="80" x2="1200" y2="80"/>
+    <line x1="0" y1="120" x2="1200" y2="120"/>
+    <line x1="0" y1="160" x2="1200" y2="160"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="200" y1="0" x2="200" y2="240"/>
+    <line x1="400" y1="0" x2="400" y2="240"/>
+    <line x1="600" y1="0" x2="600" y2="240"/>
+    <line x1="800" y1="0" x2="800" y2="240"/>
+    <line x1="1000" y1="0" x2="1000" y2="240"/>
+  </g>
+
+  <!-- Glowing orbs -->
+  <circle cx="120" cy="60" r="90" fill="#7c3aed" opacity="0.12"/>
+  <circle cx="1080" cy="180" r="80" fill="#a78bfa" opacity="0.10"/>
+  <circle cx="600" cy="120" r="120" fill="#4c1d95" opacity="0.08"/>
+
+  <!-- Dot accents -->
+  <circle cx="80" cy="30" r="2" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="1120" cy="210" r="2" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="200" cy="200" r="1.5" fill="#c084fc" opacity="0.5"/>
+  <circle cx="1000" cy="40" r="1.5" fill="#c084fc" opacity="0.5"/>
+
+  <!-- Terminal bracket decoration left -->
+  <text x="60" y="135" font-family="'Courier New', monospace" font-size="72" fill="#a78bfa" opacity="0.15" font-weight="bold">{</text>
+
+  <!-- Terminal bracket decoration right -->
+  <text x="1110" y="135" font-family="'Courier New', monospace" font-size="72" fill="#a78bfa" opacity="0.15" font-weight="bold">}</text>
+
+  <!-- Main name -->
+  <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="58" font-weight="700" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="2">Sardar Hussain</text>
+
+  <!-- Underline accent -->
+  <rect x="370" y="128" width="460" height="2" rx="1" fill="url(#textGrad)" opacity="0.6"/>
+
+  <!-- Role subtitle -->
+  <text x="600" y="165" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="400" fill="#c4b5fd" letter-spacing="4">REACT NATIVE DEVELOPER  ·  MOBILE ENGINEER  ·  PAKISTAN 🇵🇰</text>
+
+  <!-- Bottom wave -->
+  <path d="M0,220 C200,200 400,240 600,220 C800,200 1000,240 1200,220 L1200,240 L0,240 Z" fill="#0f0c29" opacity="0.5"/>
+  <path d="M0,230 C300,210 600,240 900,215 C1050,205 1150,230 1200,225 L1200,240 L0,240 Z" fill="#0f0c29" opacity="0.7"/>
+</svg>

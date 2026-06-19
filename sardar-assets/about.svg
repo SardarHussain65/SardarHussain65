@@ -1,0 +1,79 @@
+<svg width="1100" height="320" viewBox="0 0 1100 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1535"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="iconBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d1b69"/>
+      <stop offset="100%" style="stop-color:#1e1050"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="1100" height="320" rx="16" fill="url(#cardBg)" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.3"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="320" rx="2" fill="url(#accentLine)"/>
+
+  <!-- Section title -->
+  <text x="40" y="52" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#a78bfa">⚡ About Me</text>
+  <rect x="40" y="62" width="200" height="1" fill="#a78bfa" opacity="0.3"/>
+
+  <!-- Info blocks row 1 -->
+  <!-- Role -->
+  <rect x="40" y="88" width="240" height="48" rx="8" fill="url(#iconBg)" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.25"/>
+  <text x="56" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#a78bfa" opacity="0.7">ROLE</text>
+  <text x="56" y="126" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e2d9ff">React Native Developer</text>
+
+  <!-- Company -->
+  <rect x="296" y="88" width="240" height="48" rx="8" fill="url(#iconBg)" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.25"/>
+  <text x="312" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#a78bfa" opacity="0.7">COMPANY</text>
+  <text x="312" y="126" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e2d9ff">Repla Technologies</text>
+
+  <!-- Education -->
+  <rect x="552" y="88" width="240" height="48" rx="8" fill="url(#iconBg)" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.25"/>
+  <text x="568" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#a78bfa" opacity="0.7">EDUCATION</text>
+  <text x="568" y="126" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e2d9ff">B.S. Computer Science</text>
+
+  <!-- Location -->
+  <rect x="808" y="88" width="260" height="48" rx="8" fill="url(#iconBg)" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.25"/>
+  <text x="824" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#a78bfa" opacity="0.7">LOCATION</text>
+  <text x="824" y="126" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e2d9ff">Rawalpindi, Pakistan 🇵🇰</text>
+
+  <!-- Info blocks row 2 -->
+  <!-- Experience -->
+  <rect x="40" y="154" width="240" height="48" rx="8" fill="url(#iconBg)" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.25"/>
+  <text x="56" y="174" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#a78bfa" opacity="0.7">EXPERIENCE</text>
+  <text x="56" y="192" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e2d9ff">1+ Year Production Apps</text>
+
+  <!-- Status -->
+  <rect x="296" y="154" width="240" height="48" rx="8" fill="url(#iconBg)" stroke="#22c55e" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="312" y="174" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#4ade80" opacity="0.8">STATUS</text>
+  <circle cx="312" cy="188" r="4" fill="#22c55e"/>
+  <text x="324" y="192" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#4ade80">Available for Freelance</text>
+
+  <!-- Fun fact -->
+  <rect x="552" y="154" width="516" height="48" rx="8" fill="url(#iconBg)" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.25"/>
+  <text x="568" y="174" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#a78bfa" opacity="0.7">FUN FACT</text>
+  <text x="568" y="192" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e2d9ff">I debug in my sleep 💤 — Code is either working or still dreaming</text>
+
+  <!-- Passions row -->
+  <text x="40" y="232" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#a78bfa" opacity="0.7">PASSIONS</text>
+
+  <rect x="40" y="244" width="190" height="32" rx="16" fill="#2d1b69" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="135" y="265" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#c4b5fd">📱 Mobile Engineering</text>
+
+  <rect x="244" y="244" width="190" height="32" rx="16" fill="#2d1b69" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="339" y="265" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#c4b5fd">🏗️ Clean Architecture</text>
+
+  <rect x="448" y="244" width="200" height="32" rx="16" fill="#2d1b69" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="548" y="265" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#c4b5fd">⚡ Performance Optim.</text>
+
+  <!-- Quote -->
+  <text x="40" y="300" font-family="'Georgia', serif" font-size="13" fill="#a78bfa" opacity="0.6" font-style="italic">"Code is like humor. When you have to explain it, it's bad." — Cory House</text>
+</svg>
