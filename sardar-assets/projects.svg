@@ -1,0 +1,143 @@
+<svg width="1100" height="780" viewBox="0 0 1100 780" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1535"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+
+    <linearGradient id="proj1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b0764"/>
+      <stop offset="100%" style="stop-color:#1e1050"/>
+    </linearGradient>
+    <linearGradient id="proj2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0c4a3e"/>
+      <stop offset="100%" style="stop-color:#0a2a26"/>
+    </linearGradient>
+    <linearGradient id="proj3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a5f"/>
+      <stop offset="100%" style="stop-color:#0d1f33"/>
+    </linearGradient>
+    <linearGradient id="proj4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5b2c0a"/>
+      <stop offset="100%" style="stop-color:#2e1605"/>
+    </linearGradient>
+    <linearGradient id="proj5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a0d2e"/>
+      <stop offset="100%" style="stop-color:#240618"/>
+    </linearGradient>
+    <linearGradient id="proj6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a3d4a"/>
+      <stop offset="100%" style="stop-color:#051f26"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="780" rx="16" fill="url(#cardBg)" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.3"/>
+  <rect x="0" y="0" width="4" height="780" rx="2" fill="url(#accentLine)"/>
+
+  <!-- Title -->
+  <text x="40" y="56" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="800" fill="#c4b5fd">🚀 Featured Projects</text>
+  <rect x="40" y="68" width="240" height="2" fill="#a78bfa" opacity="0.4"/>
+
+  <!-- Card 1: Ayy Ride -->
+  <g>
+    <rect x="40" y="96" width="500" height="190" rx="14" fill="url(#proj1)" stroke="#c084fc" stroke-width="1" stroke-opacity="0.45"/>
+    <text x="64" y="138" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">🚗 Ayy Ride</text>
+    <text x="64" y="164" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#e9d5ff">Dual-sided ride-hailing platform</text>
+    <text x="64" y="188" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#c4b5fd" opacity="0.9">Driver &amp; Passenger apps, real-time GPS</text>
+    <text x="64" y="206" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#c4b5fd" opacity="0.9">tracking, dynamic fare calculation.</text>
+    <rect x="64" y="222" width="92" height="24" rx="12" fill="#3b0764" stroke="#c084fc" stroke-width="0.6"/>
+    <text x="110" y="238" text-anchor="middle" font-family="monospace" font-size="11" fill="#e9d5ff">React Native</text>
+    <rect x="162" y="222" width="86" height="24" rx="12" fill="#3b0764" stroke="#c084fc" stroke-width="0.6"/>
+    <text x="205" y="238" text-anchor="middle" font-family="monospace" font-size="11" fill="#e9d5ff">Firebase</text>
+    <rect x="254" y="222" width="100" height="24" rx="12" fill="#3b0764" stroke="#c084fc" stroke-width="0.6"/>
+    <text x="304" y="238" text-anchor="middle" font-family="monospace" font-size="11" fill="#e9d5ff">GraphQL</text>
+    <text x="64" y="266" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-style="italic" fill="#fbbf24">🔐 Production — Private</text>
+  </g>
+
+  <!-- Card 2: Telehealth -->
+  <g>
+    <rect x="560" y="96" width="500" height="190" rx="14" fill="url(#proj2)" stroke="#34d399" stroke-width="1" stroke-opacity="0.45"/>
+    <text x="584" y="138" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">🏥 Telehealth App</text>
+    <text x="584" y="164" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#a7f3d0">Healthcare consultation platform</text>
+    <text x="584" y="188" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#86efac" opacity="0.9">Video consultations, scheduling &amp;</text>
+    <text x="584" y="206" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#86efac" opacity="0.9">EHR tracking with secure data flow.</text>
+    <rect x="584" y="222" width="92" height="24" rx="12" fill="#0c4a3e" stroke="#34d399" stroke-width="0.6"/>
+    <text x="630" y="238" text-anchor="middle" font-family="monospace" font-size="11" fill="#a7f3d0">React Native</text>
+    <rect x="682" y="222" width="84" height="24" rx="12" fill="#0c4a3e" stroke="#34d399" stroke-width="0.6"/>
+    <text x="724" y="238" text-anchor="middle" font-family="monospace" font-size="11" fill="#a7f3d0">Twilio SDK</text>
+    <rect x="772" y="222" width="92" height="24" rx="12" fill="#0c4a3e" stroke="#34d399" stroke-width="0.6"/>
+    <text x="818" y="238" text-anchor="middle" font-family="monospace" font-size="11" fill="#a7f3d0">REST APIs</text>
+    <text x="584" y="266" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-style="italic" fill="#fbbf24">🔐 Production — Private</text>
+  </g>
+
+  <!-- Card 3: Duplex IPTV -->
+  <g>
+    <rect x="40" y="306" width="500" height="190" rx="14" fill="url(#proj3)" stroke="#60a5fa" stroke-width="1" stroke-opacity="0.45"/>
+    <text x="64" y="348" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">📺 Duplex IPTV</text>
+    <text x="64" y="374" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#bfdbfe">Cross-platform streaming app</text>
+    <text x="64" y="398" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#93c5fd" opacity="0.9">HLS/M3U playlists, live TV/VOD,</text>
+    <text x="64" y="416" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#93c5fd" opacity="0.9">EPG data, smooth stream switching.</text>
+    <rect x="64" y="432" width="92" height="24" rx="12" fill="#1e3a5f" stroke="#60a5fa" stroke-width="0.6"/>
+    <text x="110" y="448" text-anchor="middle" font-family="monospace" font-size="11" fill="#bfdbfe">React Native</text>
+    <rect x="162" y="432" width="64" height="24" rx="12" fill="#1e3a5f" stroke="#60a5fa" stroke-width="0.6"/>
+    <text x="194" y="448" text-anchor="middle" font-family="monospace" font-size="11" fill="#bfdbfe">Expo</text>
+    <rect x="232" y="432" width="100" height="24" rx="12" fill="#1e3a5f" stroke="#60a5fa" stroke-width="0.6"/>
+    <text x="282" y="448" text-anchor="middle" font-family="monospace" font-size="11" fill="#bfdbfe">expo-video</text>
+    <text x="64" y="476" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-style="italic" fill="#fbbf24">🔐 Production — Private</text>
+  </g>
+
+  <!-- Card 4: QBox -->
+  <g>
+    <rect x="560" y="306" width="500" height="190" rx="14" fill="url(#proj4)" stroke="#fb923c" stroke-width="1" stroke-opacity="0.45"/>
+    <text x="584" y="348" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">📦 QBox</text>
+    <text x="584" y="374" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#fed7aa">Enterprise property manager</text>
+    <text x="584" y="398" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#fdba74" opacity="0.9">Role-based access control, service</text>
+    <text x="584" y="416" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#fdba74" opacity="0.9">requests, multi-tenant management.</text>
+    <rect x="584" y="432" width="92" height="24" rx="12" fill="#5b2c0a" stroke="#fb923c" stroke-width="0.6"/>
+    <text x="630" y="448" text-anchor="middle" font-family="monospace" font-size="11" fill="#fed7aa">React Native</text>
+    <rect x="682" y="432" width="80" height="24" rx="12" fill="#5b2c0a" stroke="#fb923c" stroke-width="0.6"/>
+    <text x="722" y="448" text-anchor="middle" font-family="monospace" font-size="11" fill="#fed7aa">Zustand</text>
+    <rect x="768" y="432" width="92" height="24" rx="12" fill="#5b2c0a" stroke="#fb923c" stroke-width="0.6"/>
+    <text x="814" y="448" text-anchor="middle" font-family="monospace" font-size="11" fill="#fed7aa">REST APIs</text>
+    <text x="584" y="476" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-style="italic" fill="#fbbf24">🔐 Production — Private</text>
+  </g>
+
+  <!-- Card 5: Real-Time Chat -->
+  <g>
+    <rect x="40" y="516" width="500" height="190" rx="14" fill="url(#proj5)" stroke="#f472b6" stroke-width="1" stroke-opacity="0.45"/>
+    <text x="64" y="558" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">💬 Real-Time Chat</text>
+    <text x="64" y="584" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#fbcfe8">Full-featured messaging app</text>
+    <text x="64" y="608" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#f9a8d4" opacity="0.9">Media sharing, group chats, read</text>
+    <text x="64" y="626" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#f9a8d4" opacity="0.9">receipts, offline sync via Firestore.</text>
+    <rect x="64" y="642" width="92" height="24" rx="12" fill="#4a0d2e" stroke="#f472b6" stroke-width="0.6"/>
+    <text x="110" y="658" text-anchor="middle" font-family="monospace" font-size="11" fill="#fbcfe8">React Native</text>
+    <rect x="162" y="642" width="148" height="24" rx="12" fill="#4a0d2e" stroke="#f472b6" stroke-width="0.6"/>
+    <text x="236" y="658" text-anchor="middle" font-family="monospace" font-size="11" fill="#fbcfe8">Twilio Conversations</text>
+    <rect x="316" y="642" width="84" height="24" rx="12" fill="#4a0d2e" stroke="#f472b6" stroke-width="0.6"/>
+    <text x="358" y="658" text-anchor="middle" font-family="monospace" font-size="11" fill="#fbcfe8">Firestore</text>
+    <text x="64" y="686" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-style="italic" fill="#fbbf24">🔐 Production — Private</text>
+  </g>
+
+  <!-- Card 6: Jewelry E-Commerce -->
+  <g>
+    <rect x="560" y="516" width="500" height="190" rx="14" fill="url(#proj6)" stroke="#22d3ee" stroke-width="1" stroke-opacity="0.45"/>
+    <text x="584" y="558" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">💍 Jewelry E-Commerce</text>
+    <text x="584" y="584" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#a5f3fc">Mobile shopping experience</text>
+    <text x="584" y="608" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#67e8f9" opacity="0.9">Product catalog, cart system, and</text>
+    <text x="584" y="626" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#67e8f9" opacity="0.9">WhatsApp-based custom order flow.</text>
+    <rect x="584" y="642" width="92" height="24" rx="12" fill="#0a3d4a" stroke="#22d3ee" stroke-width="0.6"/>
+    <text x="630" y="658" text-anchor="middle" font-family="monospace" font-size="11" fill="#a5f3fc">React Native</text>
+    <rect x="682" y="642" width="86" height="24" rx="12" fill="#0a3d4a" stroke="#22d3ee" stroke-width="0.6"/>
+    <text x="725" y="658" text-anchor="middle" font-family="monospace" font-size="11" fill="#a5f3fc">Firebase</text>
+    <rect x="774" y="642" width="64" height="24" rx="12" fill="#0a3d4a" stroke="#22d3ee" stroke-width="0.6"/>
+    <text x="806" y="658" text-anchor="middle" font-family="monospace" font-size="11" fill="#a5f3fc">Expo</text>
+    <text x="584" y="686" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-style="italic" fill="#fbbf24">🔐 Production — Private</text>
+  </g>
+
+  <!-- Bottom accent -->
+  <rect x="0" y="765" width="1100" height="4" rx="2" fill="url(#accentLine)" opacity="0.4"/>
+</svg>

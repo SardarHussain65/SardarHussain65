@@ -1,0 +1,108 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="45%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e9d5ff"/>
+      <stop offset="50%" style="stop-color:#c084fc"/>
+      <stop offset="100%" style="stop-color:#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="orbGlow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.35"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="orbGlow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="340" fill="url(#bgGrad)"/>
+
+  <!-- Decorative grid lines -->
+  <g opacity="0.06" stroke="#a78bfa" stroke-width="0.5">
+    <line x1="0" y1="50" x2="1200" y2="50"/>
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="250" x2="1200" y2="250"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/>
+    <line x1="150" y1="0" x2="150" y2="340"/>
+    <line x1="350" y1="0" x2="350" y2="340"/>
+    <line x1="550" y1="0" x2="550" y2="340"/>
+    <line x1="750" y1="0" x2="750" y2="340"/>
+    <line x1="950" y1="0" x2="950" y2="340"/>
+    <line x1="1100" y1="0" x2="1100" y2="340"/>
+  </g>
+
+  <!-- Pulsing glow orbs -->
+  <circle cx="150" cy="80" r="140" fill="url(#orbGlow1)">
+    <animate attributeName="r" values="120;150;120" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1060" cy="260" r="130" fill="url(#orbGlow2)">
+    <animate attributeName="r" values="110;140;110" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="170" r="180" fill="url(#orbGlow1)" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Floating particles -->
+  <circle cx="90" cy="40" r="2" fill="#c084fc" opacity="0.7">
+    <animate attributeName="cy" values="40;30;40" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1130" cy="300" r="2.2" fill="#c084fc" opacity="0.7">
+    <animate attributeName="cy" values="300;290;300" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="290" r="1.5" fill="#a78bfa" opacity="0.6">
+    <animate attributeName="cy" values="290;280;290" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="55" r="1.8" fill="#a78bfa" opacity="0.6">
+    <animate attributeName="cy" values="55;45;55" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="200" r="1.4" fill="#e9d5ff" opacity="0.5">
+    <animate attributeName="cx" values="60;75;60" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1150" cy="150" r="1.6" fill="#e9d5ff" opacity="0.5">
+    <animate attributeName="cx" values="1150;1135;1150" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Terminal bracket decorations -->
+  <text x="75" y="200" font-family="'Courier New', monospace" font-size="100" fill="#a78bfa" opacity="0.13" font-weight="bold">{</text>
+  <text x="1090" y="200" font-family="'Courier New', monospace" font-size="100" fill="#a78bfa" opacity="0.13" font-weight="bold">}</text>
+
+  <!-- Top kicker label -->
+  <text x="600" y="92" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#a78bfa" letter-spacing="6" opacity="0.85">WELCOME TO MY PROFILE</text>
+
+  <!-- Main name -->
+  <text x="600" y="180" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="84" font-weight="800" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="2">
+    Sardar Hussain
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Animated underline accent -->
+  <rect x="450" y="198" width="300" height="3" rx="1.5" fill="url(#textGrad)" opacity="0.7">
+    <animate attributeName="width" values="0;300;300" dur="2s" begin="0.3s" fill="freeze"/>
+    <animate attributeName="x" values="600;450;450" dur="2s" begin="0.3s" fill="freeze"/>
+  </rect>
+
+  <!-- Role subtitle -->
+  <text x="600" y="240" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="500" fill="#d8c8ff" letter-spacing="3">React Native Developer  ·  Mobile Engineer</text>
+
+  <!-- Location pill -->
+  <text x="600" y="278" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#a78bfa" letter-spacing="2" opacity="0.9">📍 Rawalpindi, Pakistan 🇵🇰</text>
+
+  <!-- Bottom wave -->
+  <path d="M0,310 C200,290 400,330 600,310 C800,290 1000,330 1200,310 L1200,340 L0,340 Z" fill="#0f0c29" opacity="0.5"/>
+  <path d="M0,320 C300,300 600,330 900,305 C1050,295 1150,320 1200,315 L1200,340 L0,340 Z" fill="#0f0c29" opacity="0.7"/>
+</svg>

@@ -1,0 +1,119 @@
+<svg width="1100" height="620" viewBox="0 0 1100 620" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1535"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="620" rx="18" fill="url(#cardBg)" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.3"/>
+  <rect x="0" y="0" width="5" height="620" rx="2.5" fill="url(#accentLine)"/>
+
+  <text x="44" y="62" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="800" fill="#c4b5fd">🛠️ Tech Stack</text>
+  <rect x="44" y="76" width="200" height="2" fill="#a78bfa" opacity="0.4"/>
+
+  <!-- MOBILE & FRONTEND -->
+  <text x="44" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#a78bfa" opacity="0.75" letter-spacing="2">📱  MOBILE &amp; FRONTEND</text>
+
+  <rect x="44" y="124" width="172" height="40" rx="8" fill="#20232a" stroke="#61dafb" stroke-width="0.7" stroke-opacity="0.55"/>
+  <text x="130" y="149" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#61dafb">⚛ React Native</text>
+
+  <rect x="226" y="124" width="104" height="40" rx="8" fill="#000020" stroke="#ffffff" stroke-width="0.6" stroke-opacity="0.3"/>
+  <text x="278" y="149" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">Expo</text>
+
+  <rect x="340" y="124" width="140" height="40" rx="8" fill="#007acc" stroke="#007acc" stroke-width="0.6" stroke-opacity="0.6"/>
+  <text x="410" y="149" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">TypeScript</text>
+
+  <rect x="490" y="124" width="140" height="40" rx="8" fill="#f7df1e" stroke="#f7df1e" stroke-width="0.6" stroke-opacity="0.6"/>
+  <text x="560" y="149" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">JavaScript</text>
+
+  <rect x="640" y="124" width="116" height="40" rx="8" fill="#20232a" stroke="#61dafb" stroke-width="0.6" stroke-opacity="0.55"/>
+  <text x="698" y="149" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#61dafb">React.js</text>
+
+  <rect x="766" y="124" width="112" height="40" rx="8" fill="#111111" stroke="#ffffff" stroke-width="0.6" stroke-opacity="0.3"/>
+  <text x="822" y="149" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">Next.js</text>
+
+  <!-- STATE MANAGEMENT -->
+  <text x="44" y="200" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#a78bfa" opacity="0.75" letter-spacing="2">🗃️  STATE MANAGEMENT</text>
+
+  <rect x="44" y="212" width="172" height="40" rx="8" fill="#593d88" stroke="#a78bfa" stroke-width="0.6" stroke-opacity="0.55"/>
+  <text x="130" y="237" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#e9d5ff">Redux Toolkit</text>
+
+  <rect x="226" y="212" width="112" height="40" rx="8" fill="#3d1f00" stroke="#d97706" stroke-width="0.6" stroke-opacity="0.55"/>
+  <text x="282" y="237" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#fcd34d">Zustand</text>
+
+  <rect x="348" y="212" width="180" height="40" rx="8" fill="#3d0a14" stroke="#ff4154" stroke-width="0.6" stroke-opacity="0.55"/>
+  <text x="438" y="237" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#fca5a5">TanStack Query</text>
+
+  <rect x="538" y="212" width="148" height="40" rx="8" fill="#0a2340" stroke="#61dafb" stroke-width="0.6" stroke-opacity="0.45"/>
+  <text x="612" y="237" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#61dafb">Context API</text>
+
+  <!-- BACKEND & CLOUD -->
+  <text x="44" y="288" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#a78bfa" opacity="0.75" letter-spacing="2">☁️  BACKEND &amp; CLOUD</text>
+
+  <rect x="44" y="300" width="116" height="40" rx="8" fill="#2d1a00" stroke="#ffca28" stroke-width="0.7" stroke-opacity="0.65"/>
+  <text x="102" y="325" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#fcd34d">Firebase</text>
+
+  <rect x="170" y="300" width="124" height="40" rx="8" fill="#0d2620" stroke="#3ecf8e" stroke-width="0.7" stroke-opacity="0.65"/>
+  <text x="232" y="325" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#4ade80">Supabase</text>
+
+  <rect x="304" y="300" width="116" height="40" rx="8" fill="#0d2600" stroke="#339933" stroke-width="0.7" stroke-opacity="0.65"/>
+  <text x="362" y="325" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#86efac">Node.js</text>
+
+  <rect x="430" y="300" width="128" height="40" rx="8" fill="#111111" stroke="#ffffff" stroke-width="0.6" stroke-opacity="0.25"/>
+  <text x="494" y="325" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#d1d5db">Express.js</text>
+
+  <rect x="568" y="300" width="142" height="40" rx="8" fill="#0a0a2e" stroke="#4169e1" stroke-width="0.7" stroke-opacity="0.65"/>
+  <text x="639" y="325" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#93c5fd">PostgreSQL</text>
+
+  <rect x="720" y="300" width="118" height="40" rx="8" fill="#2d001a" stroke="#e10098" stroke-width="0.7" stroke-opacity="0.65"/>
+  <text x="779" y="325" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#f9a8d4">GraphQL</text>
+
+  <rect x="848" y="300" width="108" height="40" rx="8" fill="#2d0006" stroke="#f22f46" stroke-width="0.7" stroke-opacity="0.65"/>
+  <text x="902" y="325" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#fca5a5">Twilio</text>
+
+  <!-- TOOLS -->
+  <text x="44" y="376" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#a78bfa" opacity="0.75" letter-spacing="2">🔧  TOOLS &amp; PLATFORMS</text>
+
+  <rect x="44" y="388" width="88" height="40" rx="8" fill="#2d0d00" stroke="#f05032" stroke-width="0.7" stroke-opacity="0.65"/>
+  <text x="88" y="413" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#fca5a5">Git</text>
+
+  <rect x="148" y="388" width="112" height="40" rx="8" fill="#111111" stroke="#ffffff" stroke-width="0.6" stroke-opacity="0.25"/>
+  <text x="204" y="413" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">GitHub</text>
+
+  <rect x="276" y="388" width="112" height="40" rx="8" fill="#001233" stroke="#1575f9" stroke-width="0.7" stroke-opacity="0.65"/>
+  <text x="332" y="413" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#93c5fd">Xcode</text>
+
+  <rect x="404" y="388" width="172" height="40" rx="8" fill="#0d2600" stroke="#3ddc84" stroke-width="0.7" stroke-opacity="0.65"/>
+  <text x="490" y="413" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#86efac">Android Studio</text>
+
+  <rect x="592" y="388" width="116" height="40" rx="8" fill="#2d1500" stroke="#ff6c37" stroke-width="0.7" stroke-opacity="0.65"/>
+  <text x="650" y="413" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#fdba74">Postman</text>
+
+  <rect x="724" y="388" width="108" height="40" rx="8" fill="#2d0700" stroke="#f24e1e" stroke-width="0.7" stroke-opacity="0.65"/>
+  <text x="778" y="413" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#fca5a5">Figma</text>
+
+  <!-- CURRENTLY BUILDING -->
+  <text x="44" y="468" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#a78bfa" opacity="0.75" letter-spacing="2">🚀  CURRENTLY BUILDING</text>
+
+  <rect x="44" y="480" width="334" height="84" rx="12" fill="#1a0a33" stroke="#a78bfa" stroke-width="0.7" stroke-opacity="0.45"/>
+  <text x="64" y="510" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="800" fill="#e9d5ff">🚗 Ayy Ride</text>
+  <text x="64" y="534" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#c4b5fd" opacity="0.85">Dual-sided ride-hailing platform</text>
+  <text x="64" y="552" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#c4b5fd" opacity="0.85">with real-time GPS</text>
+
+  <rect x="392" y="480" width="334" height="84" rx="12" fill="#1a0a33" stroke="#a78bfa" stroke-width="0.7" stroke-opacity="0.45"/>
+  <text x="412" y="510" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="800" fill="#e9d5ff">🏥 Telehealth App</text>
+  <text x="412" y="534" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#c4b5fd" opacity="0.85">Video consultations, EHR</text>
+  <text x="412" y="552" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#c4b5fd" opacity="0.85">tracking, Twilio SDK</text>
+
+  <rect x="740" y="480" width="316" height="84" rx="12" fill="#1a0a33" stroke="#a78bfa" stroke-width="0.7" stroke-opacity="0.45"/>
+  <text x="760" y="510" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="800" fill="#e9d5ff">📺 Duplex IPTV</text>
+  <text x="760" y="534" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#c4b5fd" opacity="0.85">HLS/M3U streaming, live</text>
+  <text x="760" y="552" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#c4b5fd" opacity="0.85">TV + VOD + EPG</text>
+
+  <rect x="0" y="606" width="1100" height="4" rx="2" fill="url(#accentLine)" opacity="0.4"/>
+</svg>
