@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Cross-Platform+Mobile+Apps+%F0%9F%9A%80;React+Native+%7C+TypeScript+%7C+Clean+Architecture;1%2B+Year+Shipping+Production+Apps+at+Repla+Technologies;Turning+Ideas+Into+Real+Apps+%F0%9F%93%B1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Building+Cross-Platform+Mobile+Apps+%F0%9F%9A%80;React+Native+%7C+TypeScript+%7C+Clean+Architecture;1%2B+Year+Shipping+Production+Apps+at+Repla+Technologies;Turning+Ideas+Into+Real+Apps+%F0%9F%93%B1" alt="Typing SVG"/>
 </a>
 </div>
 
@@ -64,89 +64,10 @@
 
 <br/>
 
-## 🚀 Featured Projects
-
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚗 Ayy Ride
-**Dual-sided ride-hailing platform**
-
-Driver & Passenger apps with real-time GPS tracking, dynamic fare calculation, and live trip updates.
-
-`React Native` `Redux Toolkit` `Firebase` `Google Maps` `GraphQL`
-
-🔐 *Production — Private*
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Telehealth App
-**Healthcare consultation platform**
-
-Video consultations, appointment scheduling & EHR tracking with secure patient data flow.
-
-`React Native` `Redux Toolkit` `Twilio SDK` `REST APIs`
-
-🔐 *Production — Private*
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📺 Duplex IPTV
-**Cross-platform streaming app**
-
-HLS/M3U playlists, live TV/VOD playback, EPG data, and smooth stream switching.
-
-`React Native` `Expo` `expo-video` `TanStack Query`
-
-🔐 *Production — Private*
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 QBox
-**Enterprise property manager**
-
-Role-based access control, service request system, and multi-tenant property management.
-
-`React Native` `Zustand` `REST APIs`
-
-🔐 *Production — Private*
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Real-Time Chat
-**Full-featured messaging app**
-
-Media sharing, group chats, read receipts, and offline sync with Firestore.
-
-`React Native` `Twilio Conversations` `Firestore`
-
-🔐 *Production — Private*
-
-</td>
-<td width="50%" valign="top">
-
-### 💍 Jewelry E-Commerce
-**Mobile shopping experience**
-
-Product catalog, cart system, and WhatsApp-based custom order flow.
-
-`React Native` `Firebase` `Expo`
-
-🔐 *Production — Private*
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/SardarHussain65">
+  <img src="sardar-assets/projects.svg" width="100%" alt="Featured Projects"/>
+</a>
 </div>
 
 <br/>
@@ -162,14 +83,14 @@ Product catalog, cart system, and WhatsApp-based custom order flow.
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SardarHussain65&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=7c3aed&border_radius=15&custom_title=Sardar%20Hussain%20%7C%20GitHub%20Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SardarHussain65&layout=compact&langs_count=12&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&border_radius=15&custom_title=Most%20Used%20Languages"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api?username=SardarHussain65&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=A78BFA&text_color=e2e8f0&ring_color=7c3aed&border_radius=18&custom_title=Sardar+Hussain+%7C+GitHub+Stats"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SardarHussain65&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=e2e8f0&border_radius=18&custom_title=Most+Used+Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SardarHussain65&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border_radius=15" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SardarHussain65&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=C084FC&currStreakLabel=E9D5FF&sideLabels=E2E8F0&dates=A78BFA&border_radius=18" width="100%"/>
 </div>
 
 <br/>
@@ -185,7 +106,7 @@ Product catalog, cart system, and WhatsApp-based custom order flow.
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SardarHussain65&bg_color=0d1117&color=A78BFA&line=7c3aed&point=A78BFA&area=true&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SardarHussain65&bg_color=0d1117&color=C084FC&line=A78BFA&point=E9D5FF&area=true&area_color=7c3aed&hide_border=true&border_radius=18&custom_title=Sardar%20Hussain's%20Contribution%20Graph&title_color=C084FA" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -220,14 +141,11 @@ Product catalog, cart system, and WhatsApp-based custom order flow.
 
 ## 🎯 2026 Roadmap
 
-```
-✅ Ship 2 apps to App Store & Play Store
-🔄 Master expo-video & advanced HLS streaming
-🔄 Build an AI-powered feature with LangChain + FastAPI
-🔄 Contribute to open-source React Native ecosystem
-⏳ Complete B.S. Computer Science strong
-⏳ Land a senior RN role or grow freelance client base
-```
+<div align="center">
+<a href="https://github.com/SardarHussain65">
+  <img src="sardar-assets/roadmap.svg" width="100%" alt="2026 Roadmap"/>
+</a>
+</div>
 
 <br/>
 
