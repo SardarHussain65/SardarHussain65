@@ -106,7 +106,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SardarHussain65&bg_color=0d1117&color=C084FC&line=A78BFA&point=E9D5FF&area=true&area_color=7c3aed&hide_border=true&border_radius=18&custom_title=Sardar%20Hussain's%20Contribution%20Graph&title_color=C084FA" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SardarHussain65&bg_color=0d1117&color=C084FC&line=A78BFA&point=E9D5FF&area=true&area_color=7c3aed&hide_border=true&custom_title=Sardar%20Hussain%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>
