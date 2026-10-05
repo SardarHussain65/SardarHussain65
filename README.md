@@ -106,7 +106,13 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SardarHussain65&theme=github_dark" width="100%" alt="Contribution Activity"/>
+  <img src="https://img.shields.io/badge/Last%2012%20Months-Open%20Source%20Activity-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Contribution Activity Badge"/>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/7c3aed/SardarHussain65"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/6f42c1/SardarHussain65"/>
+    <img src="https://ghchart.rshah.org/7c3aed/SardarHussain65" width="100%" alt="GitHub Contribution Chart"/>
+  </picture>
 </div>
 
 <br/>
