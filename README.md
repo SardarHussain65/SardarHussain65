@@ -106,7 +106,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SardarHussain65/SardarHussain65/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Activity"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SardarHussain65&theme=github_dark" width="100%" alt="Contribution Activity"/>
 </div>
 
 <br/>
