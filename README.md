@@ -106,7 +106,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://ghchart.rshah.org/7c3aed/SardarHussain65" width="100%" alt="Contribution Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SardarHussain65&theme=github_dark" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>
