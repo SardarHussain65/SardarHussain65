@@ -83,8 +83,34 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="sardar-assets/activity-graph.svg" width="100%" alt="Contribution Graph"/>
+  <img src="sardar-assets/activity/last-30-days.svg" width="100%" alt="Last 30 days"/>
 </div>
+
+<details>
+<summary><b>📅 Last 3 months</b></summary>
+<br/>
+<div align="center">
+  <img src="sardar-assets/activity/last-90-days.svg" width="100%" alt="Last 3 months"/>
+</div>
+</details>
+
+<details>
+<summary><b>🗓️ Whole year</b></summary>
+<br/>
+<div align="center">
+  <img src="sardar-assets/activity/last-year.svg" width="100%" alt="Last year"/>
+</div>
+</details>
+
+<details>
+<summary><b>⏪ Previous months</b></summary>
+<br/>
+<div align="center">
+  <img src="sardar-assets/activity/month-1.svg" width="100%" alt="Previous month"/>
+  <img src="sardar-assets/activity/month-2.svg" width="100%" alt="Two months ago"/>
+  <img src="sardar-assets/activity/month-3.svg" width="100%" alt="Three months ago"/>
+</div>
+</details>
 
 <br/>
 
