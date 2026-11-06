@@ -89,20 +89,6 @@
 
 <br/>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SardarHussain65&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=C084FC&currStreakLabel=E9D5FF&sideLabels=E2E8F0&dates=A78BFA&border_radius=18" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<a href="https://github.com/SardarHussain65">
-  <img src="sardar-assets/divider.svg" width="100%" alt="Divider"/>
-</a>
-</div>
-
-<br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
