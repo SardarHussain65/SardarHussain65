@@ -83,11 +83,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SardarHussain65&bg_color=0d1117&color=c084fc&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&title_color=c084fc&custom_title=Contribution%20Graph&days=30"
-    width="100%"
-    alt="Contribution Graph"
-  />
+  <img src="sardar-assets/activity-graph.svg" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>
