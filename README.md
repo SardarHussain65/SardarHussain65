@@ -80,15 +80,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="210em" src="https://github-readme-stats.vercel.app/api?username=SardarHussain65&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=A78BFA&text_color=e2e8f0&ring_color=7c3aed&border_radius=18&custom_title=Sardar+Hussain+%7C+GitHub+Stats&v=2"/>
-<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SardarHussain65&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=e2e8f0&border_radius=18&custom_title=Most+Used+Languages&v=2"/>
-</div>
-
-<br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
