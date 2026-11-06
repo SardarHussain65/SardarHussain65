@@ -80,16 +80,14 @@
 
 <br/>
 
-## 📈 Contribution Activity
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Last%2012%20Months-Open%20Source%20Activity-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Contribution Activity Badge"/>
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/7c3aed/SardarHussain65"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/6f42c1/SardarHussain65"/>
-    <img src="https://ghchart.rshah.org/7c3aed/SardarHussain65" width="100%" alt="GitHub Contribution Chart"/>
-  </picture>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SardarHussain65&bg_color=0d1117&color=c084fc&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&title_color=c084fc&custom_title=Contribution%20Graph&days=30"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </div>
 
 <br/>
