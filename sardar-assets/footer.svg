@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="100%" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1333"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="140" rx="12" fill="url(#bg)"/>
+  <ellipse cx="450" cy="20" rx="260" ry="60" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <rect x="150" y="30" width="600" height="2" fill="url(#line)"/>
+
+  <text x="450" y="72" fill="#e9d5ff" font-size="20" font-weight="700" text-anchor="middle">Thanks for stopping by</text>
+  <text x="450" y="98" fill="#8b7fc7" font-size="13" text-anchor="middle" letter-spacing="2">REACT NATIVE  ·  TYPESCRIPT  ·  CLEAN ARCHITECTURE</text>
+
+  <rect x="150" y="116" width="600" height="2" fill="url(#line)"/>
+</svg>
